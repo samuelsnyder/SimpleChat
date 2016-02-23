@@ -4,7 +4,7 @@ Simple command line chat server and client
 
 # Compilation 
 
-`g++ chatserve.c -o chatserve`
+`g++ ChatServe.c -o ChatServe`
 
 `javac ChatClient.java `
 
@@ -12,7 +12,7 @@ Simple command line chat server and client
 
 ## Host
 
-`./chatserve #PORT`
+`./ChatServe #PORT`
 
 (#HOST can be "localhost"):
 
